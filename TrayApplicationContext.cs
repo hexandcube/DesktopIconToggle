@@ -74,7 +74,7 @@ public class TrayApplicationContext : ApplicationContext
         };
 
         string url = "https://hexandcube.com";
-        string fullText = "Version 2.0.0\n\n" +
+        string fullText = "Version 2.1.0\n\n" +
                           "Created by Hexandcube\n" +
                           $"{url}\n\n" +
                           "Desktop Icon by Icons8\n";
